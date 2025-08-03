@@ -1,4 +1,4 @@
-# Software Developer\
+# Software Developer
 - Full Stack Developer with 3+ years of experience designing microservices and event-driven architectures using Python, GCP, and Azure.
 - Proficient in building scalable APIs, real-time data pipelines, and integrating cloud-based AI services.
 - Additionally skilled in developing responsive web applications using React and Angular to deliver seamless user experiences.
