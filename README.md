@@ -16,5 +16,5 @@
 - **Bachelors in Electronics and Communication Engineering** from Christ University - 2021
 
 ### Work Experience
-- **Software Developer at Iqvia/Excellus BCBS**
-- **Software Developer at Real Variable**
+- **Data Engineer at Iqvia/Excellus BCBS** 
+- **Data Engineer at Real Variable**
