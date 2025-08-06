@@ -1,4 +1,4 @@
-# Software Developer
+# Software Developer | Data Engineer | Cloud Engineer
 - Full Stack Developer with 3+ years of experience designing microservices and event-driven architectures using Python, GCP, and Azure.
 - Proficient in building scalable APIs, real-time data pipelines, and integrating cloud-based AI services.
 - Additionally skilled in developing responsive web applications using React and Angular to deliver seamless user experiences.
@@ -16,5 +16,5 @@
 - **Bachelors in Electronics and Communication Engineering** from Christ University - 2021
 
 ### Work Experience
-- **Data Engineer at Iqvia/Excellus BCBS** 
-- **Data Engineer at Real Variable**
+- **Software Developer at Iqvia/Excellus BCBS** 
+- **Software Developer at Real Variable**
